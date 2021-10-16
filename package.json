@@ -1,1 +1,17 @@
-
+{
+  "name": "astraapi",
+  "version": "1.0.5",
+  "description": "Сделайте свою платёжную форму легко.",
+ }, 
+"repository": {
+    "type": "git",
+    "url": "https://github.com/AstraMarket/astraapi/"
+  },
+  "keywords": [
+    "astramarket",
+  ],
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=7.0.0"
+  }
+}
